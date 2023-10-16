@@ -25,12 +25,12 @@
 
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Binks123&show_icons=true&include_all_commits=true&theme=transparent&hide_border=True" alt="Binks123's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binks123&layout=compact&theme=transparent&hide_border=true" />|
-| ------------- | ------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=sunnyboy-mu&show_icons=true&include_all_commits=true&theme=transparent&hide_border=True" alt="Binks123's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyboy-mu&layout=compact&theme=transparent&hide_border=true" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Binks123&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=white" alt="Ashutosh's github activity graph">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnyboy-mu&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=white" alt="Ashutosh's github activity graph">
 
 
 <div align="center" >
