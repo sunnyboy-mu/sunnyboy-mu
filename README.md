@@ -2,11 +2,12 @@
 
 <img  align="right" height="150" width="150" src="./images/globe.gif">
 <div align="center">
-   <h1>Hi there, I'm Binks123</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm Sunnyboy-mu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+
 ### **About Me**
-👋I'm Binks123, a computer enthusiast and GISer. <br/>
+👋I'm Sunnyboy-mu, a computer enthusiast and GISer. <br/>
 ✨Let's learn together and progress together! 
 
 
