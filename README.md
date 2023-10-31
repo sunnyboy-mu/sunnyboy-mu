@@ -1,5 +1,5 @@
 <div align="center">
-   <img title="访客量" src="https://count.getloli.com/get/@:Sunnyboy-mu">
+   <img title="访客量" src="https://count.getloli.com/get/@Sunnyboy-mu">
 </div>
 <img  align="right" height="150" width="150" src="./images/globe.gif">
 <div align="center">
@@ -17,7 +17,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-white?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=sunnyboy-mu&show_icons=true&include_all_commits=true&theme=transparent&hide_border=True" alt="Binks123's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyboy-mu&layout=compact&theme=transparent&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Sunnyboy-mu&show_icons=true&include_all_commits=true&theme=transparent&hide_border=True" alt="Binks123's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyboy-mu&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
