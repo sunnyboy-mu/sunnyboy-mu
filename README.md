@@ -10,6 +10,14 @@
 👋I'm 小沐沐吖, a programming enthusiast. <br/>
 ✨Let's learn together and progress together! 
 
+<!-- 放置贪吃蛇游戏 -->
+<picture>
+<!-- 根据主题颜色来决定用亮的还是黑的 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sunnyboy-mu/sunnyboy-mu/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sunnyboy-mu/sunnyboy-mu/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://github.com/sunnyboy-mu/sunnyboy-mu/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ### **Skills**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&color=%23008c8c)
